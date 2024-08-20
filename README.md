@@ -1,4 +1,4 @@
-# UE.AIChatPlusPublic
+# UE.AIChatPlus
 
 ![feature](https://github.com/user-attachments/assets/701f0857-5a23-436b-8732-6ebac496c5b3)
 
