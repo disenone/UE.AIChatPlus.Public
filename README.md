@@ -1,6 +1,7 @@
 # UE.AIChatPlusPublic
 
-public information of UE Plugin AIChatPlus
+![feature](https://github.com/user-attachments/assets/701f0857-5a23-436b-8732-6ebac496c5b3)
+
 
 ## Doc
 
